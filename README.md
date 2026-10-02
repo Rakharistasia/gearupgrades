@@ -2,7 +2,7 @@
 
 Finds upgrades your characters already own. It compares every equippable item in each character's bags, bank and shared bank against what that character is wearing, and lists the best upgrade per character and slot, with an **Equip** button to swap it in. Inspired by MQ2Itemscore plugin, and Gearly.
 
-Written for EQ Might (EQEmu), should work on other EQEmu servers.
+Written for EQ Might (EQEmu), should work on other EQEmu servers. Written with Claude Opus 5.5, MQ command and agents by Knightly and Redguides.md.
 
 ## What it does
 
