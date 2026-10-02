@@ -1,6 +1,6 @@
-# GearUpgrades
+# # EQ Might - EMU - GearUpgrades
 
-Finds upgrades your characters already own. It compares every equippable item in each character's bags, bank and shared bank against what that character is wearing, and lists the best upgrade per character and slot, with an **Equip** button to swap it in.
+Finds upgrades your characters already own. It compares every equippable item in each character's bags, bank and shared bank against what that character is wearing, and lists the best upgrade per character and slot, with an **Equip** button to swap it in. Inspired by MQ2Itemscore plugin, and Gearly.
 
 Written for EQ Might (EQEmu), should work on other EQEmu servers.
 
